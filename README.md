@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/I1V9YWqRIeI" target="_blank">
-      <img src="public/readme/readme-hero.webp" alt="Project Banner">    
-    </a>
+    <img src="public/readme/readme-hero.webp" alt="Project Banner">    
   <br />
 
   <div>
@@ -22,7 +20,7 @@
   <h3 align="center">Dev Event Platform</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial.
     </div>
 </div>
 
@@ -37,25 +35,17 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository contains the code corresponding to an in-depth tutorial.
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/I1V9YWqRIeI" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 ## <a name="introduction">✨ Introduction</a>
 
 Event Platform built to manage and showcase events seamlessly. It features a dynamic home page displaying upcoming events, robust API routes for CRUD operations, Cloudinary-powered image uploads, detailed event pages with registration and similar event suggestions, and integrated analytics to track user engagement and optimize performance.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - **[Cloudinary](https://jsm.dev/devevent-cloudinary)** is a cloud-based media management platform that simplifies image and video uploads, storage, optimization, and delivery. It helps developers manage media efficiently and improve website performance.
-
-- **[CodeRabbit](https://coderabbit.link/JSMastery)** is a platform that accelerates development workflows by providing AI-powered coding assistance and project scaffolding, helping developers generate code and reduce repetitive tasks.
 
 - **[MongoDB](https://www.mongodb.com/products/platform/atlas-database)** is a flexible, document-oriented NoSQL database that stores data in JSON-like format. It is ideal for modern applications that require scalability, high performance, and schema flexibility.
 
@@ -105,7 +95,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/dev-events-nextjs16-crash-course.git
+git clone <repository-url>
 cd dev-events-nextjs16-crash-course
 ```
 
@@ -141,14 +131,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-## <a name="links">🔗 Assets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsmastery.com/video-kit/93f20ce7-ace5-4a74-997d-3f8262f3e0a3)**.
-
-<a href="https://jsmastery.com/video-kit/93f20ce7-ace5-4a74-997d-3f8262f3e0a3" target="_blank">
-  <img src="public/readme/readme-videokit.webp" alt="Video Kit Banner">
-</a>
 
 ## <a name="more">🚀 More</a>
 
